@@ -1,0 +1,37 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Use HTML tags and HTML forms to create</title>
+</head>
+<body>
+    
+  
+    <header>
+       <h1>Home</h1>
+       <nav>
+           <ul>
+               <li><a href="index.html">Home</a></li>
+               <li><a href ="contact.html">Contact</a></li>
+               <li class="logo"> <a href="index.html">Full Stack Logo</a></li>
+               <li><a href ="location.html">Location</a></li>
+           </ul>
+       </nav>
+    </header>
+
+
+
+    <section class="features">
+    <figure> 
+        <img src="./images/austin.png" alt="Austin Texas picture">
+         <figcaption>Austin, Texas</figcaption>
+         
+     </figure>
+</section>
+  
+  
+    <footer>FullStack and Instructional Design Services 1234 Main Road, Austin TX | 999-9999 | fs@gmail.com</footer>
+
+
+</body>
+</html>
