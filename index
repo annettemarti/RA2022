@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!--Use HTML tags and HTML forms to create:
+
+1.  A personal website that contains information about the services you render or products you
+    sell (feel free to use any random service or product if you do not have any real-life service
+    or products)
+
+2.  Each product or service should include a price and a button (it doesn't have to do 
+    anything when clicked)
+
+3. Each product should have a name, description, and image.
+
+4. create a contact page with the form fields - Name, Email, Message, and Priority (dropdown). 
+    Your form should have a submit button and HTML validation
+
+5. You can use any CSS type - internal, external or inline. --->
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Use HTML tags and HTML forms to create</title>
+</head>
+<body>
+    
+  
+    <header>
+       <h1>Home</h1>
+       <nav>
+           <ul>
+               <li><a href="index.html">Home</a></li>
+               <li><a href ="contact.html">Contact</a></li>
+               <li class="logo"> <a href="index.html">Full Stack Logo</a></li>
+               <li><a href ="location.html">Location</a></li>
+           </ul>
+       </nav>
+    </header>
+
+
+   <section class="features">
+       <figure> 
+           <img src="./images/1.png" alt="Frontend service picture">
+            <figcaption>Frontend</figcaption>
+            <p>$10,000</p>
+            <p>Frontend development with HTML, CSS, Jquery Javascript and React.</p>
+            <button class = "buttons">Add to Cart</button>
+        </figure>
+
+
+
+
+
+       
+        <figure> 
+            <img src="./images/2.png" alt="Backend service picture">
+             <figcaption>Backend</figcaption>
+             <p>$20,000</p>
+            <p>Backend development includes experience in my SQL, Larva structure.</p>
+            <button class = "buttons">Add to Cart</button>
+         </figure>
+
+
+
+         <figure> 
+            <img src="./images/3.png" alt="Instructional Design service picture">
+             <figcaption>Instructional Design</figcaption>
+             <p>$30,000</p>
+            <p>Instructinal design experience in UX design ,Storyline and Rise 360.</p>
+            <button class = "buttons">Add to Cart</button>
+
+
+
+         </figure>
+        
+        
+    </section>
+  
+  
+   <footer>FullStack and Instructional Design Services 1234 Main Road, Austin TX | 999-9999 | fs@gmail.com</footer>
+
+
+</body>
+</html>
