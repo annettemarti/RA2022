@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Table Tag Task</title>
+</head>
+
+	<style>
+body {
+  background-color:lightblue;
+}
+#myTable {
+  background-color:#FFFFFF;
+  border-collapse:collapse;
+}
+</style>
+	
+	
+	
+
+
+<body>
+	"<table id="myTable" align="center" border="1" cellpadding="3">
+	
+		
+    <tr>
+      <td><b>Company</b></td>
+      <td><b>Model</b></td>
+      <td><b>Phone</b></td>
+      <td><b>City</b></td>
+      <td><b>Country</b></td>
+      <td><b>Staff</b></td>
+      <td><b>Industry</b></td>
+    </tr>
+    <tr>
+      <td>Dodge</td>
+      <td> Challenger</td>
+      <td>(956)111-1111</td>
+      <td>Austin</td>
+      <td>USA</td>
+      <td>100</td>
+      <td>Cars</td>
+    </tr>
+    <tr>
+      <td>Maruti</td>
+      <td>Swift</td>
+      <td>(956)222-2222</td>
+      <td>Dallas</td>
+      <td>USA</td>
+      <td>200</td>
+      <td>Cars</td>
+    </tr>
+    <tr>
+      <td>Jeep</td>
+      <td> Wrangler</td>
+     <td>(956)333-3333</td>
+      <td>San Antonio</td>
+      <td>USA</td>
+      <td>300</td>
+      <td>Cars</td>
+    </tr>
+    <tr>
+	   <td colspan="7">All these car company names and their model names are colledted from the internet. You can change company model name as per your choice.</td>
+	  </tr>
+	  
+    <tr>
+      <td>BMW</td>
+      <td>BMW 5 Series</td>
+      <td>(956)444-4444</td>
+      <td>Houston</td>
+      <td>USA</td>
+      <td>400</td>
+      <td>Cars</td>
+    </tr>
+	  
+  </tbody>
+</table>
+	
+
+	
+	
+</body>
+</html>
