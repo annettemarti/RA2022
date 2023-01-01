@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>HTML Page Task</title>
+</head>
+
+	<h1>Annette Martinez FullStack Track</h1>
+	
+<body>
+<img src="assets/austin.jpeg" width="350" height="200" alt="Image of Austin Texas"/>
+	<p>Hi! My name is Annette from Austin Tx. I am passionate about learning and I am excited to be in this cohort. I love hiking and gradening! </p>
+	
+	<ul>
+  <li>Goal number one is to Learn Javascript.</li>
+  <li>Goal number two is to Learn React.</li>
+  <li>Goal number three get a job as a Junior FullStack developer.</li>
+</ul>  
+
+	
+
+</body>
+</html>
